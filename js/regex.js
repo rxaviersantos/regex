@@ -14,7 +14,7 @@ function executa(event) {
 
 function executaRegex(valores) {
 
-	var textoPattern = valores.pattern; //montaPatternDeDataMaisLegivel();
+	var textoPattern = valores.pattern; 
 	var textoTarget  = valores.target;
 	var mostraIndex  = valores.mostraIndex;
 	var mostraGrupos = valores.mostraGrupos;
